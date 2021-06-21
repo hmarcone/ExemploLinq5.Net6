@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31410.414
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploLinq5.Net6", "ExemploLinq5\ExemploLinq5.Net6.csproj", "{05702ECD-1E8F-4A37-8FC7-CF16D516EE87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploLinq6.Net6", "..\ExemploLinq5.Net6\ExemploLinq6.Net6\ExemploLinq6.Net6.csproj", "{BB9CC233-66E8-495A-B425-1D3C68F3C372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05702ECD-1E8F-4A37-8FC7-CF16D516EE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05702ECD-1E8F-4A37-8FC7-CF16D516EE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05702ECD-1E8F-4A37-8FC7-CF16D516EE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9CC233-66E8-495A-B425-1D3C68F3C372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9CC233-66E8-495A-B425-1D3C68F3C372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9CC233-66E8-495A-B425-1D3C68F3C372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9CC233-66E8-495A-B425-1D3C68F3C372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
